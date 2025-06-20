@@ -26,7 +26,7 @@ Logo: Place whatsappqr_logo.png in static/ for GUI branding.
 
 Installation
 
-Clone the repository:git clone https://github.com/your-repo/whatsapp_qrljacker.git
+Clone the repository:git clone https://github.com/SunnyThakur25/whatsapp_qrljacker.git
 cd whatsapp_qrljacker
 
 
