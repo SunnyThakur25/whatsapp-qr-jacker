@@ -28,7 +28,9 @@ Certbot
 ```
 
 Infrastructure:
+
 Registered domain with DNS pointing to the server’s public IP.
+
 Root or sudo privileges for deployment.
 
 
